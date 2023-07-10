@@ -1,6 +1,6 @@
 
 /* La définition de la schéma */
-use test;
+use school;
 
 /* user */
 create table if not exists user (
