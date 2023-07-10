@@ -7,6 +7,7 @@ export interface IUser {
   familyName?: string;
   givenName?: string;
   email: string;
+  balance: number;
 }
 
 // Outils de manipulation des types :

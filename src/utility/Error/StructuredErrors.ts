@@ -20,6 +20,8 @@ export type StructuredErrors =
   'object/invalid-response' |
   'object/key-not-found-in-storage' |
 
+  // Advertising
+  'advertiser/insufficient-credit' |
 
   // Default
   'internal/unknown'
